@@ -4,3 +4,5 @@
 __pycache__/
 history.jsonl
 state.json
+history-state.json
+history-state.json.tmp
